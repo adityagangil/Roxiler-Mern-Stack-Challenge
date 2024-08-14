@@ -74,25 +74,6 @@ The server application provides APIs to fetch transaction data and statistics. I
 - Axios
 - dotenv
 
-1. **Navigate to the Server directory**
-
-  ```bash
-  cd server
-
-2. **Install dependencies**
-
-  ```bash
-  npm install
-
-3. **Set up environment variables**:
-
-Create a `.env` file in the `server` directory with the following content:
-
-   ```bash
-   MONGO_URI=your-mongodb-uri
-   DATA_URL=your-data-url (if needed)
-   PORT=8080
-
 
 4. **Start the server**
 
